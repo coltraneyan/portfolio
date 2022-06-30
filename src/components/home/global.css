@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap");
+
+.bold-font {
+  font-family: "Inter";
+  font-weight: 600;
+  color: var(--clr-font-main);
+}
+
+.reg-font {
+  font-family: "Inter";
+  font-weight: 500;
+  color: var(--clr-font-offset);
+}
+
+.mono-font {
+  font-family: monospace;
+  color: var(--clr-font-main);
+}
+
+:root {
+  background-color: var(--clr-bg-layout);
+  user-select: none;
+
+  --clr-main: #1933ee;
+  --clr-main-offset: #e25295;
+  --clr-bg-content: #2d2d2d;
+  --clr-bg-layout: #242424;
+  --clr-bg-offset: #5a5a5a;
+  --clr-font-main: white;
+  --clr-font-offset: rgb(207, 207, 207);
+}

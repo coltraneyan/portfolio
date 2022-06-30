@@ -1,0 +1,45 @@
+.nav-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  border-right: 1px solid var(--clr-bg-offset);
+  padding: 1.5rem;
+}
+
+.item-wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.number {
+  padding: 0.1rem;
+  border-radius: 3px;
+  border: 1px solid var(--clr-bg);
+  transition: 0.2s ease-in-out;
+}
+
+.nav-button {
+  border-radius: 5px;
+  border: 1px solid var(--clr-bg-offset);
+  padding: 0.25rem;
+  text-align: center;
+  width: 8rem;
+  transition: 0.2s ease-in-out;
+  background-color: var(--clr-bg-content);
+}
+
+.active {
+  background-color: var(--clr-main);
+  border: 1px solid var(--clr-main);
+}
+
+.active ~ .number {
+  background-color: var(--clr-main);
+  color: white;
+}
+
+.nav-button:hover {
+  border: 1px solid var(--clr-main);
+}
