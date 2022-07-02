@@ -22,7 +22,11 @@
 
 :root {
   background-color: var(--clr-bg-layout);
+
   user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
 
   --clr-main: #1933ee;
   --clr-main-offset: #e25295;

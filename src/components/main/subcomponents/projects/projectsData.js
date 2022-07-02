@@ -47,7 +47,7 @@ const projectsData = [
         projTech: "Javascript, Node",
         projColor: "lightgreen",
         projDesc: "Javascript mirror of Solidity's 'Require' Statement",
-        projLink: "https://github.com/coltraneyan/portal-wallet",
+        projLink: "https://github.com/coltraneyan/must-npm",
         projIcon: <SiSolidity />,
       },
       {
@@ -55,7 +55,7 @@ const projectsData = [
         projTech: "Javascript, HTML, Markdown, Git",
         projColor: "lightgreen",
         projDesc: "Contributed to documentation of JS static-site generator",
-        projLink: "https://github.com/coltraneyan/ethertree",
+        projLink: "https://abelljs.org/",
         projIcon: <FaSitemap />,
       },
       {
@@ -63,7 +63,7 @@ const projectsData = [
         projTech: "Markdown, Git",
         projColor: "lightgreen",
         projDesc: "Contributed to documentation of Request HTTP Client",
-        projLink: "https://github.com/coltraneyan/ethertree",
+        projLink: "https://github.com/aiocat/request",
         projIcon: <SiAiohttp />,
       },
     ],
