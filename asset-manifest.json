@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.138aa16c.css",
-    "main.js": "/static/js/main.5e2aba38.js",
+    "main.css": "/static/css/main.2572beb5.css",
+    "main.js": "/static/js/main.28666ee2.js",
     "static/media/fuchsia.jpg": "/static/media/fuchsia.8d0c134904b6299d5c01.jpg",
     "index.html": "/index.html",
-    "main.138aa16c.css.map": "/static/css/main.138aa16c.css.map",
-    "main.5e2aba38.js.map": "/static/js/main.5e2aba38.js.map"
+    "main.2572beb5.css.map": "/static/css/main.2572beb5.css.map",
+    "main.28666ee2.js.map": "/static/js/main.28666ee2.js.map"
   },
   "entrypoints": [
-    "static/css/main.138aa16c.css",
-    "static/js/main.5e2aba38.js"
+    "static/css/main.2572beb5.css",
+    "static/js/main.28666ee2.js"
   ]
 }
